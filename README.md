@@ -57,7 +57,7 @@ Contributing
 We welcome contributions to improve this code. If you have suggestions or enhancements, please submit a pull request or open an issue on GitHub. Let’s work together to build a smarter, more accessible public transport system!
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/safetravelph-developer/ph-paratransit-stops-optimizer/blob/main/LICENSE).
 
 ## Contact
-For more information, please visit SafeTravelPH.org/parasol or contact the project team.
+For more information, visit the [Parasol Project Website](https://safetravelph.org/parasol).
