@@ -28,20 +28,6 @@ Generates interactive maps using Folium to visualize raw clustered points and th
 Output:
 Produces a CSV file with the final aligned clustered stops along with the snapped coordinates and associated metadata.
 
-Requirements
-The code requires the following Python libraries:
-
-pandas
-numpy
-matplotlib
-scikit-learn
-folium
-seaborn
-geopandas
-shapely
-contextily
-You can install these dependencies using pip:
-
 ## Future Enhancements
 We plan to extend this tool with additional features, including:
 
