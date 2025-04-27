@@ -1,10 +1,4 @@
-To install the required dependencies from the requirements.txt file, follow these steps:
+# HDBSCAN Clustering and Geocoding of Ridership to Determine Optimal Stops Location
 
-1. Save the provided requirements.txt content to a file named requirements.txt.
+This project clusters GPS boarding points using HDBSCAN, snaps the clusters to the nearest common (but not official) stops or points of interests, reverse geocodes their addresses, and outputs the results in CSV, shapefile, and image formats. It is designed for public transport boarding and alighting data analysis, with examples from Iloilo City public transport routes. 
 
-2. Open a terminal or command prompt.
-
-3. Navigate to the directory containing requirements.txt.
-
-4. Run the following command:
-pip install -r requirements.txt
